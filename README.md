@@ -1,7 +1,7 @@
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/youssef.osama.58323/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/youssef-osama-ab75b9186/) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://youssef-osama.onrender.com/) 
+[![Medium](https://medium.com/@https://youssef-osama.onrender.com/) 
 
 
 # 💻 Tech Stack:
